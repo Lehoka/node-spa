@@ -59,7 +59,7 @@ GET /api/posts
 
 Description: Returns all blog posts.
 Example Response:
-{
+```{
   "data": [
     {
       "id": 1,
@@ -71,12 +71,12 @@ Example Response:
     }
   ]
 }
-
+```
 GET /api/posts/:id
 
 Description: Returns a specific blog post by ID.
 Example Response:
-{
+```{
   "data": {
     "id": 1,
     "title": "First post in sports",
@@ -86,12 +86,12 @@ Example Response:
     "tags": ["Sports"]
   }
 }
-
+```
 GET /api/posts/:id/comments
 
 Description: Returns comments for a specific blog post.
 Example Response:
-{
+```{
   "data": {
     "id": 1,
     "created_at": "2023-02-13",
@@ -99,6 +99,7 @@ Example Response:
     "body": "Lorem ipsum dolor sit amet."
   }
 }
+```
 
 GET /api/tags/:name
 
