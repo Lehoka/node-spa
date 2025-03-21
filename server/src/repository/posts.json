@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "title": "First post in sports",
+        "headline": "This is our first post",
+        "body": "This is the content of our first post",
+        "created_at": "2023-02-11",
+        "tags": [
+            "Sports"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "First post in business",
+        "headline": "This is our second post",
+        "body": "This is the content of our second post",
+        "created_at": "2023-02-10",
+        "tags": [
+            "Business",
+            "Tech"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "First post in economy",
+        "headline": "This is our third post",
+        "body": "This is the content of our third post",
+        "created_at": "2023-02-09",
+        "tags": [
+            "Economy"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Second post in sports",
+        "headline": "This is our fourth post",
+        "body": "This is the content of our fourth post",
+        "created_at": "2023-02-15",
+        "tags": [
+            "Sports"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "First post in tech",
+        "headline": "This is our fifth post",
+        "body": "This is the content of our fifth post",
+        "created_at": "2023-02-16",
+        "tags": [
+            "Tech"
+        ]
+    }
+]

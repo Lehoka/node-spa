@@ -1,0 +1,15 @@
+{
+  "name": "spa-node-rest-api",
+  "version": "1.0.0",
+  "description": "Single Page Application with a REST API",
+  "main": "app.js",
+  "scripts": {
+    "start": "node --watch ./src/app.js"
+  },
+  "author": "Leho",
+  "type": "module",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
